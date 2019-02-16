@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/xuxiaobang/studyNode/issues"
   },
-  "homepage": "https://github.com/xuxiaobang/studyNode#readme"
+  "homepage": "https://github.com/xuxiaobang/studyNode#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.5"
+  }
 }
